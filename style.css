@@ -60,7 +60,6 @@
     .humidity, .wind {
         font-size: 22px;
     }
-}
 
 /* ------------------------------
    Small Tablets (481px – 768px)
@@ -231,4 +230,5 @@ body {
     font-size: 14px;
     margin-top: 10px;
     display: none;
+
 }
